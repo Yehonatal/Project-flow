@@ -165,6 +165,7 @@ body {
     min-height: 100vh;
 
     font-family: var(--ff-main);
+    user-select: none;
 }
 
 h1 {
