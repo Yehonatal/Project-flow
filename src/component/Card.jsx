@@ -39,7 +39,9 @@ const Card = ({ title }) => {
                 />
             </div>
 
-            {/* s */}
+            {/*       <div>
+                <img src={`/svg/${mp3Title}.svg`} alt={`${mp3Title} svg`} />
+            </div> */}
 
             <div className="card_detail">
                 <h1 className="card_title">{title.toUpperCase()} </h1>
