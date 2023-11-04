@@ -163,7 +163,8 @@ body {
     place-items: center;
     min-width: 320px;
     min-height: 100vh;
-
+    flex-direction: column;
+    justify-content: flex-end;
     font-family: var(--ff-main);
     user-select: none;
 }
@@ -178,4 +179,9 @@ h1 {
 .stylish {
     text-transform: italic;
     font-family: var(--ff-stylish);
+}
+
+.footer {
+    padding: 1em;
+    justify-self: end;
 }
