@@ -8,11 +8,10 @@ const Card = ({ title }) => {
     const [volume, setVolume] = useState(0);
 
     useEffect(() => {
-        if (audioRef.current) {
+        if (!volume == 0) {
             audioRef.current.volume = volume;
             audioRef.current && audioRef.current.play();
-        }
-        if (volume == 0) {
+        } else if (volume == 0) {
             audioRef.current && audioRef.current.pause();
         }
     }, [volume]);
@@ -39,6 +38,8 @@ const Card = ({ title }) => {
                     onChange={handleVolumeChange}
                 />
             </div>
+
+            {/* s */}
 
             <div className="card_detail">
                 <h1 className="card_title">{title.toUpperCase()} </h1>
