@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-    title: "FLO",
+    title: "PROJECT FLO",
     description:
         "A collection of ambient sounds for when the work your doing needs that bit of touch to make it enjoyable.",
 };
