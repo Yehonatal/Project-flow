@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monoton&family=Sue+Ellen+Francisco&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    --foreground-rgb: 0, 0, 0;
+    --background-start-rgb: 236, 221, 221;
+    --background-end-rgb: 236, 221, 221;
+    --ff-main: "Bebas Neue", sans-serif;
+    --ff-badge: "Monoton", sans-serif;
+    --ff-stylish: "Sue Ellen Francisco", cursive;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --foreground-rgb: 255, 255, 255;
+        --background-start-rgb: 29, 27, 27;
+        --background-end-rgb: 29, 27, 027;
+    }
+}
+
+body {
+    color: rgb(var(--foreground-rgb));
+    background: linear-gradient(
+            to bottom,
+            transparent,
+            rgb(var(--background-end-rgb))
+        )
+        rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+    .text-balance {
+        text-wrap: balance;
+    }
+}
+
+/* Logo Design */
+.stylish_bold {
+    line-height: 1.1;
+}
+
+.stylish_accent {
+    text-transform: italic;
+    color: #00c9a7;
+}
