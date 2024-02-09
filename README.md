@@ -1,4 +1,4 @@
-# FLOW
+# FLOW (OLD REACT VERSION)
 
 Inspired by: [neal.fun](https://neal.fun/ambient-chaos/)
 
