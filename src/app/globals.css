@@ -5,8 +5,8 @@
 @tailwind utilities;
 :root {
     --foreground-rgb: 0, 0, 0;
-    --background-start-rgb: 214, 219, 220;
-    --background-end-rgb: 255, 255, 255;
+    --background-start-rgb: 236, 221, 221;
+    --background-end-rgb: 236, 221, 221;
     --ff-main: "Bebas Neue", sans-serif;
     --ff-badge: "Monoton", sans-serif;
     --ff-stylish: "Sue Ellen Francisco", cursive;
@@ -15,8 +15,8 @@
 @media (prefers-color-scheme: dark) {
     :root {
         --foreground-rgb: 255, 255, 255;
-        --background-start-rgb: 0, 0, 0;
-        --background-end-rgb: 0, 0, 0;
+        --background-start-rgb: 29, 27, 27;
+        --background-end-rgb: 29, 27, 027;
     }
 }
 
@@ -38,15 +38,10 @@ body {
 
 /* Logo Design */
 .stylish_bold {
-    font-size: 3em;
     line-height: 1.1;
-    font-weight: bold;
-    font-family: var(--ff-badge);
 }
 
 .stylish_accent {
-    font-size: 3em;
     text-transform: italic;
     color: #00c9a7;
-    font-family: var(--ff-stylish);
 }
