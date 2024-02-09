@@ -25,7 +25,7 @@ export default function Home() {
             <div className="flex gap-6 items-center">
                 <a
                     className="w-[34px]"
-                    href="https://t.me/Jehonatal"
+                    href="https://t.me/LearningStuff"
                     target="_blank"
                 >
                     <Image src={Telegram} alt="" />
@@ -39,7 +39,7 @@ export default function Home() {
                 </a>
                 <a
                     className="w-[36px]"
-                    href="https://github.com/Yehonatal"
+                    href="https://github.com/Yehonatal/flow"
                     target="_blank"
                 >
                     <Image src={Github} alt="" />
