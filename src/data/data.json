@@ -1,0 +1,214 @@
+{
+    "sounds": {
+        "rain": {
+            "title": "Rain",
+            "description": "Gentle rain sounds for relaxation.",
+            "image": "img/rain.png",
+            "sound": "sound/rain.mp3",
+            "duration_seconds": 300
+        },
+        "coffee_shop": {
+            "title": "Coffee Shop",
+            "description": "Ambient sounds of a cozy coffee shop.",
+            "image": "img/coffee_shop.png",
+            "sound": "sound/coffee_shop.mp3",
+            "duration_seconds": 300
+        },
+        "lofi_beats": {
+            "title": "Lofi Beats",
+            "description": "Chill lofi beats for studying or relaxation.",
+            "image": "img/lofi_beats.png",
+            "sound": "sound/lofi_beats.mp3",
+            "duration_seconds": 300
+        },
+        "waves": {
+            "title": "Waves",
+            "description": "Calming ocean waves for meditation.",
+            "image": "img/waves.png",
+            "sound": "sound/waves.mp3",
+            "duration_seconds": 300
+        },
+        "campfire": {
+            "title": "Campfire",
+            "description": "Crackling campfire sounds for warmth.",
+            "image": "img/campfire.png",
+            "sound": "sound/campfire.mp3",
+            "duration_seconds": 300
+        },
+        "wind": {
+            "title": "Wind",
+            "description": "Gentle wind sounds for relaxation.",
+            "image": "img/wind.png",
+            "sound": "sound/wind.mp3",
+            "duration_seconds": 300
+        },
+        "forest": {
+            "title": "Forest",
+            "description": "Peaceful forest sounds for concentration.",
+            "image": "img/forest.png",
+            "sound": "sound/forest.mp3",
+            "duration_seconds": 300
+        },
+        "train_station": {
+            "title": "Train Station",
+            "description": "Busy train station ambiance.",
+            "image": "img/train_station.png",
+            "sound": "sound/train_station.mp3",
+            "duration_seconds": 300
+        },
+        "highway": {
+            "title": "Highway",
+            "description": "Traffic sounds on a busy highway.",
+            "image": "img/highway.png",
+            "sound": "sound/highway.mp3",
+            "duration_seconds": 300
+        },
+        "office": {
+            "title": "Office",
+            "description": "Office environment with typing and chatter.",
+            "image": "img/office.png",
+            "sound": "sound/office.mp3",
+            "duration_seconds": 300
+        },
+        "dentist": {
+            "title": "Dentist",
+            "description": "Sounds of a dentist's office with drills and instruments.",
+            "image": "img/dentist.png",
+            "sound": "sound/dentist.mp3",
+            "duration_seconds": 300
+        },
+        "playground": {
+            "title": "Playground",
+            "description": "Children playing and laughing on a playground.",
+            "image": "img/playground.png",
+            "sound": "sound/playground.mp3",
+            "duration_seconds": 300
+        },
+        "hospital": {
+            "title": "Hospital",
+            "description": "Hospital ambiance with beeping machines and footsteps.",
+            "image": "img/hospital.png",
+            "sound": "sound/hospital.mp3",
+            "duration_seconds": 300
+        },
+        "casino": {
+            "title": "Casino",
+            "description": "Casino ambiance with slot machines and chatter.",
+            "image": "img/casino.png",
+            "sound": "sound/casino.mp3",
+            "duration_seconds": 300
+        },
+        "carnival": {
+            "title": "Carnival",
+            "description": "Sounds of a carnival with rides and games.",
+            "image": "img/carnival.png",
+            "sound": "sound/carnival.mp3",
+            "duration_seconds": 300
+        },
+        "marching_band": {
+            "title": "Marching Band",
+            "description": "Marching band performance with drums and brass instruments.",
+            "image": "img/marching_band.png",
+            "sound": "sound/marching_band.mp3",
+            "duration_seconds": 300
+        },
+        "church_bells": {
+            "title": "Church Bells",
+            "description": "Chiming church bells in a serene atmosphere.",
+            "image": "img/church_bells.png",
+            "sound": "sound/church_bells.mp3",
+            "duration_seconds": 300
+        },
+        "lawnmower": {
+            "title": "Lawnmower",
+            "description": "Sounds of a lawnmower cutting grass in a peaceful setting.",
+            "image": "img/lawnmower.png",
+            "sound": "sound/lawnmower.mp3",
+            "duration_seconds": 300
+        },
+        "couple_arguing": {
+            "title": "Couple Arguing",
+            "description": "Sounds of a couple arguing with raised voices and frustration.",
+            "image": "img/couple_arguing.png",
+            "sound": "sound/couple_arguing.mp3",
+            "duration_seconds": 300
+        },
+        "barn_animals": {
+            "title": "Barn Animals",
+            "description": "Sounds of farm animals in a barn with mooing and clucking.",
+            "image": "img/barn_animals.png",
+            "sound": "sound/barn_animals.mp3",
+            "duration_seconds": 300
+        },
+        "construction": {
+            "title": "Construction",
+            "description": "Sounds of construction with hammering and machinery.",
+            "image": "img/construction.png",
+            "sound": "sound/construction.mp3",
+            "duration_seconds": 300
+        },
+        "crime_scene": {
+            "title": "Crime Scene",
+            "description": "Police sirens and investigation sounds at a crime scene.",
+            "image": "img/crime_scene.png",
+            "sound": "sound/crime_scene.mp3",
+            "duration_seconds": 300
+        },
+        "dungeon": {
+            "title": "Dungeon",
+            "description": "Dark and eerie sounds of a dungeon with dripping water and echoes.",
+            "image": "img/dungeon.png",
+            "sound": "sound/dungeon.mp3",
+            "duration_seconds": 300
+        },
+        "fireworks": {
+            "title": "Fireworks",
+            "description": "Sounds of fireworks bursting in the sky with colorful displays.",
+            "image": "img/fireworks.png",
+            "sound": "sound/fireworks.mp3",
+            "duration_seconds": 300
+        },
+        "beehive": {
+            "title": "Beehive",
+            "description": "Buzzing sounds of bees in a busy beehive.",
+            "image": "img/beehive.png",
+            "sound": "sound/beehive.mp3",
+            "duration_seconds": 300
+        },
+        "alien_ship": {
+            "title": "Alien Ship",
+            "description": "Otherworldly sounds of an alien ship with mysterious noises.",
+            "image": "img/alien_ship.png",
+            "sound": "sound/alien_ship.mp3",
+            "duration_seconds": 300
+        },
+        "volcano": {
+            "title": "Volcano",
+            "description": "Rumbling sounds of a volcano with eruptions and lava flows.",
+            "image": "img/volcano.png",
+            "sound": "sound/volcano.mp3",
+            "duration_seconds": 300
+        },
+        "zombies": {
+            "title": "Zombies",
+            "description": "Spooky sounds of zombies with moaning and shuffling footsteps.",
+            "image": "img/zombies.png",
+            "sound": "sound/zombies.mp3",
+            "duration_seconds": 300
+        },
+        "medieval_battle": {
+            "title": "Medieval Battle",
+            "description": "Epic sounds of a medieval battle with clashing swords and battle cries.",
+            "image": "img/medieval_battle.png",
+            "sound": "sound/medieval_battle.mp3",
+            "duration_seconds": 300
+        },
+        "nuclear_siren": {
+            "title": "Nuclear Siren",
+            "description": "Alarming sounds of a nuclear siren warning of danger.",
+            "image": "img/nuclear_siren.png",
+            "sound": "sound/nuclear_siren.mp3",
+            "duration_seconds": 300
+        }
+    }
+}
